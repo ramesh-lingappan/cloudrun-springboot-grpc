@@ -11,6 +11,11 @@ Start the server by running the following command,
 ./gradlew bootRun
 ```
 
+### Making a client call, 
+If you like to test the grpc service, install the [bloomRPC](https://github.com/uw-labs/bloomrpc) GUI Client,
+
+![grpc_demo](grpc_local_demo.gif)
+
 ### Deploying
 
 I have created a small `Makefile` to build the docker image and deploy to cloud run service, simply run the following command,
