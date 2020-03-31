@@ -1,6 +1,6 @@
 # Cloud Run with gRPC using Spring Boot
 
-A Demo Cloud Run gRPC server using Spring Boot based on the Medium article, [Google Cloud Run service with gRPC using Spring Boot]()
+A Demo Cloud Run gRPC server using Spring Boot based on the Medium article, [Google Cloud Run service with gRPC using Spring Boot](https://medium.com/swlh/google-cloud-run-service-with-grpc-using-spring-boot-e43daf155752)
 
 ## How to use?
 
