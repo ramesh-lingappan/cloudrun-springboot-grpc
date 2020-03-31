@@ -16,7 +16,7 @@ Start the server by running the following command,
 I have created a small `Makefile` to build the docker image and deploy to cloud run service, simply run the following command,
 
 ```makefile
- make deploy GCP_PROJECT=mystock-service SERVICE_NAME=greeting-service 
+ make deploy GCP_PROJECT=greeting-project SERVICE_NAME=greeting-service 
 ```
 
 replace `GCP_PROJECT` & `SERVICE_NAME` with your desired project & service name.
